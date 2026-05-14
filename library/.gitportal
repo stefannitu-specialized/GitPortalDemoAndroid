@@ -1,0 +1,7 @@
+[gitportal]
+	dir = bdir
+	bidircode = android
+	bidirbranch = main
+	commit = 7001d4d861a65ccf0c0c5605a57517f14ffac3d5
+	parent = eee431e9bb00f2d3d2b436e22e805affb68e1054
+	remote = https://github.com/stefannitu-specialized/GitPortalTemplateLibrary.git
